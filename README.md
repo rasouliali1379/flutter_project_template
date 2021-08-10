@@ -6,6 +6,6 @@ This is my Flutter porjects template using [GetX](https://pub.dev/packages/get)
 
 Clone the repository using and run command below in project root directory
 
-```dart
+```cmd
 flutter create .
 ```
