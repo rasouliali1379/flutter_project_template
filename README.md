@@ -1,3 +1,3 @@
 # FLutter Project Template
 
-This my porjects template
+This is my Flutter porjects template using (GetX)[https://pub.dev/packages/get]
